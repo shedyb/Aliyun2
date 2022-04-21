@@ -1,0 +1,22 @@
+=head2 Tue Oct 18 23:43:44 2016: C<Module> L<nginx|nginx>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/local/share/perl5/site_perl>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.10.1>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
